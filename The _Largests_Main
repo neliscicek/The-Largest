@@ -1,7 +1,7 @@
 public class TheLargestNum  
 { public static void main(String[] args) {
 
-int a=22, b=83, c=61;  
+int a, b, c;  
 
 if(a>=b && a>=c)  
 System.out.println(a+" is the largest Number among given 3 numbers");  
